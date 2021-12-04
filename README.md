@@ -132,8 +132,5 @@ void OnTick()
 }
 ```
 
-#### code(python)
-
-```python
-```
+#### 
 
